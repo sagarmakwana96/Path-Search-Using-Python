@@ -1,1 +1,1 @@
-# Path-Search-Using-Python
+Implemented various search algorithms such as Breadth-first Search, Uniform-cost Search and A* search algorithms from scratch tofind the shortest optimal path between source and destination in a 3-dimensional mesh-grid.
